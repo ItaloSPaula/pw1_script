@@ -24,4 +24,4 @@ function CalculaNumeros(n1, n2, op){
     }
 }
 
-console.log(CalculaNumeros(50, 4, "potencia"));
+console.log(CalculaNumeros(50, 4, "raiz"));
